@@ -1,0 +1,6 @@
+{
+  "name": "DevHub — Developer Environment Studio",
+  "description": "Keyboard-first developer workspace platform for isolated runtimes, automated environment scaffolding, package matrices, and containerized daemons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
